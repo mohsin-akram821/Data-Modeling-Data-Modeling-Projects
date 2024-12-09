@@ -18,9 +18,17 @@ By the end of this article, you’ll have a solid understanding of how to apply 
 # What is Data Modeling?
 Before diving into the projects, it’s essential to understand what data modeling entails.
 
-Data modeling is designing a visual representation of a system’s data.
+Data modeling is designing a visual representation of a system’s data. 
+
+In short, collecting multiple tables together and making a relationship between them (when two tables have some common column) is the whole what is Data Modeling.
 
 This model serves as a blueprint for creating a database or data structure that accurately reflects the relationships and constraints of the data it stores.
+
+# Why Data Modeling?
+In order to get the proper/correct values between tables, we need Data Modeling.
+
+# When Data Modeling?
+When two tables contain some common columns then we add the relationship between them which is called Data Modeling.
 
 # Types of Data Models
 ## Conceptual Data Model:
